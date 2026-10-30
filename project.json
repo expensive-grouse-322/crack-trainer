@@ -1,0 +1,22 @@
+{
+  "name": "crack-trainer",
+  "displayName": "CRACK Trainer",
+  "programType": "trainer",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Session settings",
+    "Profile groups",
+    "Control reference"
+  ],
+  "topics": [
+    "crack-trainer",
+    "crack-tools",
+    "crack-menu",
+    "crack-settings",
+    "crack-configs",
+    "crack-session-settings",
+    "crack-profile-groups"
+  ]
+}
